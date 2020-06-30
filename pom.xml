@@ -12,7 +12,7 @@
 	<groupId>com.hcl</groupId>
 	<artifactId>parking</artifactId>
 	<version>0.0.5-SNAPSHOT</version>
-	<name>parking</name>
+	<name>ingdatabaseNew</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
