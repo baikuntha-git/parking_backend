@@ -18,7 +18,8 @@
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
-
+  
+	
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -79,7 +80,7 @@
 	<distributionManagement>
   <snapshotRepository>
     <id>nexus</id>
-    <url>http://13.234.136.72:8081/nexus/content/repositories/snapshots</url>
+    <url>http://13.233.100.69:8081/nexus/content/repositories/snapshots</url>
   </snapshotRepository>
 </distributionManagement>
 	
